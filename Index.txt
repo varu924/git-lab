@@ -1,6 +1,5 @@
 good wishes
-<<<<<<< HEAD
 new added Line
-=======
 new added line
->>>>>>> fc964ab (cs-c)
+fc964ab (cs-c)
+good morning cs 
